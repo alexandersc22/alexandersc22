@@ -13,6 +13,7 @@ You can find my resume [here](#about)
 ## Table of Contents
 - [About](#about)
 - [Projects](#projects)
+- [Internship](#internship)
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contact)
@@ -40,6 +41,16 @@ In this section I will list data analytics/business intelligence projects that I
 **Code:** [premier_league_match_analysis.ipynb](https://github.com/alexandersc22/alexandersc22/blob/main/premier_league_match_analysis.ipynb)
 
 **Description:**
+
+
+## Internship
+Data Analyst Intern at Systems on Silicon Manufacturing Company (SSMC) (Jan 2025 - May 2025)
+- Evaluated and verified incoming material quality within the Supplier Quality Management team, ensuring strict 
+adherence to semiconductor manufacturing standards.
+- Conducted in-depth analysis of supplier performance metrics and material quality compliance utilizing Excel, SQL, and Tableau. 
+- Designed and deployed interactive dashboards for real-time performance monitoring, improving data 
+visibility for multiple cross-functional teams across the company. 
+
 
 ## Education
 Nanyang Technological University, Singapore (2022-2026)
