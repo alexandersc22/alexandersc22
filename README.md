@@ -7,6 +7,8 @@ In my free time, I enjoy sharpening my analytical thinking through reading and a
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Business Intelligence related topics.
 
+You can find my resume [here](## Projects)
+
 
 ## Projects
 In this section I will list data analytics/business intelligence projects that I have done so far.
