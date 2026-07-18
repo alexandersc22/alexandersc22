@@ -12,4 +12,17 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics/business intelligence projects that I have done so far.
 
 ### Hotel Ratings & Trip Type Analysis
-**Code:**
+**Code:** [hotel_ratings_analysis.ipynb](https://github.com/alexandersc22/alexandersc22/blob/main/hotel_ratings_analysis.ipynb)
+**Description:**
+
+### Hotel Ratings & Trip Type Analysis
+**Code:** [hotel_ratings_analysis.ipynb](https://github.com/alexandersc22/alexandersc22/blob/main/hotel_ratings_analysis.ipynb)
+**Description:**
+
+### Hotel Ratings & Trip Type Analysis
+**Code:** [hotel_ratings_analysis.ipynb](https://github.com/alexandersc22/alexandersc22/blob/main/hotel_ratings_analysis.ipynb)
+**Description:**
+
+### Hotel Ratings & Trip Type Analysis
+**Code:** [hotel_ratings_analysis.ipynb](https://github.com/alexandersc22/alexandersc22/blob/main/hotel_ratings_analysis.ipynb)
+**Description:**
