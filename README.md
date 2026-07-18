@@ -11,18 +11,22 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Projects
 In this section I will list data analytics/business intelligence projects that I have done so far.
 
-### Hotel Ratings & Trip Type Analysis
+### Cyclistic Bike-Share BI Dashboard
 **Code:** [hotel_ratings_analysis.ipynb](https://github.com/alexandersc22/alexandersc22/blob/main/hotel_ratings_analysis.ipynb)
+
 **Description:**
 
 ### Hotel Ratings & Trip Type Analysis
 **Code:** [hotel_ratings_analysis.ipynb](https://github.com/alexandersc22/alexandersc22/blob/main/hotel_ratings_analysis.ipynb)
+
 **Description:**
 
-### Hotel Ratings & Trip Type Analysis
-**Code:** [hotel_ratings_analysis.ipynb](https://github.com/alexandersc22/alexandersc22/blob/main/hotel_ratings_analysis.ipynb)
+### NBA 2020 Season Analysis
+**Code:** [nba_2020_analysis.ipynb](https://github.com/alexandersc22/alexandersc22/blob/main/hotel_ratings_analysis.ipynb)
+
 **Description:**
 
-### Hotel Ratings & Trip Type Analysis
-**Code:** [hotel_ratings_analysis.ipynb](https://github.com/alexandersc22/alexandersc22/blob/main/hotel_ratings_analysis.ipynb)
+### Premier League Match Analysis
+**Code:** [premier_league_match_analysis.ipynb](https://github.com/alexandersc22/alexandersc22/blob/main/hotel_ratings_analysis.ipynb)
+
 **Description:**
