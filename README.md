@@ -22,11 +22,11 @@ In this section I will list data analytics/business intelligence projects that I
 **Description:**
 
 ### NBA 2020 Season Analysis
-**Code:** [nba_2020_analysis.ipynb]([https://github.com/alexandersc22/alexandersc22/blob/main/hotel_ratings_analysis.ipynb](https://github.com/alexandersc22/alexandersc22/blob/main/nba_2020_analysis.ipynb))
+**Code:** [nba_2020_analysis.ipynb](https://github.com/alexandersc22/alexandersc22/blob/main/nba_2020_analysis.ipynb)
 
 **Description:**
 
 ### Premier League Match Analysis
-**Code:** [premier_league_match_analysis.ipynb](https://github.com/alexandersc22/alexandersc22/blob/main/hotel_ratings_analysis.ipynb)
+**Code:** [premier_league_match_analysis.ipynb](https://github.com/alexandersc22/alexandersc22/blob/main/premier_league_match_analysis.ipynb)
 
 **Description:**
