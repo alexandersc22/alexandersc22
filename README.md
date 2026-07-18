@@ -3,7 +3,7 @@ Hi, I'm Alex! I recently completed my bachelor's from Nanyang Technological Univ
 
 During my studies and internship, I honed my ability to work with massive datasets and developed a keen eye for identifying operational bottlenecks. I gained hands-on experience in building end-to-end ETL pipelines with SQL and Python, designing interactive Tableau dashboards, and developing advanced neural networks in PyTorch, which I believe will be valuable assets in any data-driven role.
 
-In my free time, I enjoy sharpening my analytical thinking through reading and applying structured logic to creative hobbies like playing the guitar and drawing. I also like to keep my mind fresh by being active through playing sports, especially football and badminton. I am always looking for opportunities to expand my technical toolkit and love tackling complex, high-stakes problems from the ground up.
+In my free time, I enjoy sharpening my analytical thinking through reading and applying structured logic to creative hobbies like playing the guitar and drawing. I also like to keep my mind fresh by being active through playing sports, especially football and badminton. I am always looking for opportunities to expand my technical toolkit and love tackling complex, high-stakes problems from the ground up. I am eager to learn and always strive to be better everyday.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Business Intelligence related topics.
 <!--
