@@ -10,6 +10,14 @@ This is a repository to showcase skills, share projects and track my progress in
 You can find my resume [here](#about)
 
 
+## Table of Contents
+- [About](#about)
+- [Projects](#projects)
+- [Education](#education)
+- [Certificates](#certificates)
+- [Contact](#contact)
+
+  
 ## Projects
 In this section I will list data analytics/business intelligence projects that I have done so far.
 
@@ -32,3 +40,11 @@ In this section I will list data analytics/business intelligence projects that I
 **Code:** [premier_league_match_analysis.ipynb](https://github.com/alexandersc22/alexandersc22/blob/main/premier_league_match_analysis.ipynb)
 
 **Description:**
+
+
+## Certificates
+[Google Data Analytics Specialization](https://coursera.org/share/4a0cc2db68c82a73d0520c107fb50b28)
+
+[Google Business Intelligence Specialization](https://www.coursera.org/account/accomplishments/specialization/8DTDKVY17175?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+
+[Business intelligence and data analytics: Generate insights](https://coursera.org/share/b17194dc7ae66af5ded03828e87b50e1)
