@@ -12,7 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics/business intelligence projects that I have done so far.
 
 ### Cyclistic Bike-Share BI Dashboard
-**Dashboard:** [cyclistic_dashboard](https://public.tableau.com/app/profile/alexander.christianto/viz/Cyclistic_Dashboard_17843675229170/CyclisticExemplar)
+**Dashboard:** [cyclistic_tableau](https://public.tableau.com/app/profile/alexander.christianto/viz/Cyclistic_Dashboard_17843675229170/CyclisticExemplar)
 
 **Description:**
 
