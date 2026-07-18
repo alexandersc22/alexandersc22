@@ -41,10 +41,23 @@ In this section I will list data analytics/business intelligence projects that I
 
 **Description:**
 
+## Education
+Nanyang Technological University, Singapore. (2022-2026)
+
+Bachelor's of Engineering in Electrical & Electronic Engineering
+
+Specialization in Data Analysis & Machine Learning
+
+Minor in Business
+
+Honours: Distinction, CGPA: 4.04
+
 
 ## Certificates
-[Google Data Analytics Specialization](https://coursera.org/share/4a0cc2db68c82a73d0520c107fb50b28)
+I always seek to find ways to upskill and equip myself better for the demands of the workplace as a data/BI analyst by attending online courses. Here's a list of the ones I have completed:
 
-[Google Business Intelligence Specialization](https://www.coursera.org/account/accomplishments/specialization/8DTDKVY17175?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+- [Google Data Analytics Specialization](https://coursera.org/share/4a0cc2db68c82a73d0520c107fb50b28) (25 June 2026)
 
-[Business intelligence and data analytics: Generate insights](https://coursera.org/share/b17194dc7ae66af5ded03828e87b50e1)
+- [Google Business Intelligence Specialization](https://www.coursera.org/account/accomplishments/specialization/8DTDKVY17175?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (16 May 2026)
+
+- [Business intelligence and data analytics: Generate insights](https://coursera.org/share/b17194dc7ae66af5ded03828e87b50e1) (1 July 2025)
